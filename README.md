@@ -99,6 +99,13 @@ The developed AMR successfully demonstrated the following capabilities:
 
 In conclusion, the project successfully developed an AMR capable of operating autonomously in a warehouse environment, with high efficiency and accuracy in obstacle avoidance, path planning, and task execution.
 
+## Contributors
+
+- [Salah-Eddine Lagrou](https://github.com/salah-eddine-lagrou)
+
+## Author
+
+This project is developed and maintained by [Salah-Eddine Lagrou](https://github.com/salah-eddine-lagrou).
 
 
 ### Usage
